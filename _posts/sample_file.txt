@@ -1,4 +1,7 @@
+--
 layout: slide
 title: "Welcome to our sample slide!"
-
+--
+This is the change line
 here is the sample data for everyone to checkout
+I am adding another new line here. This should trigger a change notification
