@@ -1,0 +1,4 @@
+layout: slide
+title: "Welcome to our sample slide!"
+
+here is the sample data for everyone to checkout
